@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "My research interest is in searching for new physics phenomena at collider experiments. Our group are currently studying the Standard Model of fundamental particles with ultra-rare processes containing multiple heavy gauge bosons and high precision test of lepton flavor vilation with the CMS experiment at the CERN LHC. Our group is developing advanced online data processing techniques based on Machine Learning methods realized on embedded systems or heteregenous computing platforms. At the Purdue Silicion Detector Lab, semiconductor detector modules for the next upgrade of the CMS detector are being tested and studied by our undergraduate and graduate student researchers."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
