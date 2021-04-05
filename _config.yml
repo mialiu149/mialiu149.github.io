@@ -84,10 +84,10 @@ author:
   avatar           : "Mia.jpg"
   bio              : "Assistant Professor"
   employer         : "Purdue University"
-  location         : "West Lafayette, IN"
+ # location         : "West Lafayette, IN"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=h8JQ0nYAAAAJ&hl=en"
-  email            :  liu3173 then purdue
+  email            :  liu3173@purdue.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
