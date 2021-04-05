@@ -11,5 +11,5 @@ My research interest is in searching for new physics phenomena at collider exper
 
 Open positions
 ======
-We are actively recruiting: a silicon lab engineer (apply [here](https://career8.successfactors.com/sfcareer/jobreqcareer?jobId=12785&company=purdueuniv))a postdoctoral researcher for CMS data analysis and instrumentation development (apply [here](https://inspirehep.net/jobs/1796307)), graduate students (apply [here](https://www.physics.purdue.edu/academic-programs/future_students/admissions.html)), and undergraduate students (email me).
+We are actively recruiting: a silicon lab engineer (apply [here](https://career8.successfactors.com/sfcareer/jobreqcareer?jobId=12785&company=purdueuniv)), a postdoctoral researcher for CMS data analysis and instrumentation development (apply [here](https://inspirehep.net/jobs/1796307)), graduate students (apply [here](https://www.physics.purdue.edu/academic-programs/future_students/admissions.html)), and undergraduate students (email me).
 
