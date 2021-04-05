@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Mia Liu"
-  avatar           : "profile.png"
-  bio              : "Assistant Professor at Purdue University"
+  avatar           : "Mia.jpg"
+  bio              : "Assistant Professor"
+  employer         : "Purdue University"
   location         : "West Lafayette, IN"
-  employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=h8JQ0nYAAAAJ&hl=en"
   email            :  liu3173 then purdue
