@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-#title                    : "Mia Liu/ Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Mia Liu"
 description              : &description "personal description"
