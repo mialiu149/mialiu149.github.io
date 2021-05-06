@@ -6,8 +6,8 @@ main:
   - title: "Talks"
     url: /talks/       
     
-  - title: "In Media"
-    url: /portfolio/
+  #- title: "In Media"
+  #  url: /portfolio/
     
   - title: "CV"
     url:  /cv-mia-3page.pdf
@@ -15,8 +15,8 @@ main:
   - title: "Teaching"
     url: /teaching/ 
    
-  - title: "Team"
-    url: /year-archive/
+  #- title: "Team"
+  #  url: /year-archive/
     
-  - title: "Resources"
-    url: /markdown/
+  #- title: "Resources"
+  #  url: /markdown/
