@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?hl=en&user=h8JQ0nYAAAAJ
 
   - title: "Talks"
     url: /talks/       
@@ -10,7 +10,7 @@ main:
   #  url: /portfolio/
     
   - title: "CV"
-    url: /cv/
+    url: https://github.com/mialiu149/mialiu149.github.io/blob/master/cv-mia-3page.pdf
 
   - title: "Teaching"
     url: /teaching/ 
