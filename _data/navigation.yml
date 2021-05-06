@@ -6,8 +6,8 @@ main:
   - title: "Talks"
     url: /talks/       
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "In Media"
+    url: /portfolio/
     
   - title: "CV"
     url:  /cv-mia-3page.pdf
