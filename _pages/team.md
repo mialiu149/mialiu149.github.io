@@ -1,7 +1,6 @@
 ---
 title: "Team"
 layout: gridlay
-<!---layout:archive--->
 excerpt: "Team members"
 sitemap: false
 permalink: /team/
