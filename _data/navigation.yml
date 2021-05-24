@@ -15,8 +15,8 @@ main:
   - title: "Teaching"
     url: /teaching/ 
    
-  #- title: "Team"
-  #  url: /year-archive/
+  - title: "Team"
+    url: /year-archive/
     
   #- title: "Resources"
   #  url: /markdown/
