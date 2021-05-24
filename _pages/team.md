@@ -1,6 +1,7 @@
 ---
 title: "Team"
 layout: gridlay
+<!---layout:archive--->
 excerpt: "Team members"
 sitemap: false
 permalink: /team/
@@ -193,4 +194,4 @@ Jump to [Postdoc-and-staff](#postdoc-and-staff), [Graduate and undergraduate stu
 
 
 ## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.---!>
+<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.--->
