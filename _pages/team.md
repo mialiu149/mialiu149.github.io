@@ -75,9 +75,6 @@ Jump to [Postdoc-and-staff](#postdoc-and-staff), [Graduate and undergraduate stu
 </div>
 {% endif %}
 
-
-
-
 ## Graduate and Undergraduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -165,7 +162,7 @@ Jump to [Postdoc-and-staff](#postdoc-and-staff), [Graduate and undergraduate stu
 </div>
 {% endif %}
 
- <!--- ## Former visitors, BSc/ MSc students
+  ## Former visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -193,4 +190,4 @@ Jump to [Postdoc-and-staff](#postdoc-and-staff), [Graduate and undergraduate stu
 
 
 ## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.--->
+<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
